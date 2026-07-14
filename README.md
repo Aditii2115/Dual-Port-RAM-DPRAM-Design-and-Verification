@@ -86,15 +86,6 @@ All test scenarios passed with zero mismatches, confirming correct functional be
 - FPGA-based communication and processing systems
 - Educational demonstration of memory arbitration and RTL verification techniques
 
-## Authors
 
-- Vensi Savani
-- Aditi Shah
-
-Department of Electronics and Communication Engineering, Institute of Technology, Nirma University, Ahmedabad, India
-
-Course: **3EC605ME24 - Testing and Verification of Digital Circuits**
-
-## References
 
 Key references include works by Cummings (FIFO/memory design techniques), Sutherland et al. (SystemVerilog for hardware design), Bergeron (verification methodologies), and Harris & Harris (digital design and computer architecture). See the full report for complete citations.
